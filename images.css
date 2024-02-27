@@ -1,0 +1,21 @@
+* {
+    padding: 10px;
+    margin: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.navlinks a {
+    text-decoration: none;
+    gap: 30px;
+    padding: 20px;
+    color: black;
+}
+img {
+    width: 30%;
+    text-align: center;
+    padding: 15px;
+}
